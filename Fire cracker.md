@@ -1,8 +1,3 @@
-# Python-codes
-This project combines a fireworks display with music in Python using Pygame. It features colorful animations triggered by mouse clicks and plays background music. Users can easily add their own music files. I aimed to enhance my coding skills while creating a visually engaging experience. This marks my first step into the world of game development!
-
-***MOST IMPORTANTLY THE MUSIC USED HERE WAS PRESENT ON MY PC THAT MEANS I'VE DOWNLOADED THE MUSIC AS MP3 FILE***
-
 import pygame
 import random
 import math
